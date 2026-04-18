@@ -14,7 +14,7 @@ This is an Amazon homepage clone created using HTML and CSS.
 - CSS
 
 ## 📸 Screenshot
-(Add screenshot here later)
+file:///home/abdurrehman/Pictures/Screenshots/Screenshot%20from%202026-04-18%2021-20-25.png
 
 ## 👨‍💻 Author
 Abdur Rehman
